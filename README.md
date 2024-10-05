@@ -1,12 +1,12 @@
 # Parkinson's Disease Detection
 
-## overview
+## Overview
 -This project aims to develop a machine learning model for the early detection of Parkinson's disease using various features extracted from patient data. Early diagnosis is crucial for effective treatment and management of the disease.
 ## Problem Statement
 -Parkinson's disease is a progressive neurodegenerative disorder that affects movement. This project focuses on creating a predictive model to identify Parkinson's disease based on voice recordings and other clinical features, enabling timely intervention.
 ## Dataset
 
-- the datset includes :
+- The datset includes :
 
 - **name**: The name or identifier of the patient in the dataset.
 
@@ -59,7 +59,7 @@
 These features are essential for analyzing voice characteristics that may indicate the presence of Parkinson's disease, allowing for early detection and intervention.
 
 ## Web App
--A web application has been created using Streamlit to provide a user-friendly interface for detecting Parkinson's disease. The app allows users to:
+- A web application has been created using Streamlit to provide a user-friendly interface for detecting Parkinson's disease. The app allows users to:
 
 #### Input Data: Users can enter specific data points related to voice recordings and patient characteristics.
 #### View Predictions: After entering the data, users can submit the input to receive a prediction indicating whether the person is likely to have Parkinson's disease.
