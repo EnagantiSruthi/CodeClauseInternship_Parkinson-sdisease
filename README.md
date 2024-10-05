@@ -65,4 +65,4 @@ These features are essential for analyzing voice characteristics that may indica
 #### View Predictions: After entering the data, users can submit the input to receive a prediction indicating whether the person is likely to have Parkinson's disease.
 
 ## License
--This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
