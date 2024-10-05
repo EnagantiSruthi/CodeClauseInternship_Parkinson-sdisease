@@ -1,9 +1,9 @@
 # Parkinson's Disease Detection
 
 ## Overview
--This project aims to develop a machine learning model for the early detection of Parkinson's disease using various features extracted from patient data. Early diagnosis is crucial for effective treatment and management of the disease.
+- This project aims to develop a machine learning model for the early detection of Parkinson's disease using various features extracted from patient data. Early diagnosis is crucial for effective treatment and management of the disease.
 ## Problem Statement
--Parkinson's disease is a progressive neurodegenerative disorder that affects movement. This project focuses on creating a predictive model to identify Parkinson's disease based on voice recordings and other clinical features, enabling timely intervention.
+- Parkinson's disease is a progressive neurodegenerative disorder that affects movement. This project focuses on creating a predictive model to identify Parkinson's disease based on voice recordings and other clinical features, enabling timely intervention.
 ## Dataset
 
 - The datset includes :
